@@ -22,7 +22,7 @@ WA.onInit().then(() => {
 
 
 WA.room.area.onEnter('phrase01').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase01Popup", "Larger conversations of more than 4 people will happen in "Jitsi Rooms". These are much like Zoom", []);
+        currentPopup = WA.ui.openPopup("phrase01Popup", "Larger conversations of more than 4 people will happen in Jitsi Rooms. These are much like Zoom", []);
     })
 
     WA.room.area.onLeave('phrase01').subscribe(closePopup);
