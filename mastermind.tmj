@@ -180,23 +180,6 @@
                 }, 
                 {
                  "class":"area",
-                 "height":512,
-                 "id":3,
-                 "name":"MeetingSpace",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":753,
-                 "x":587,
-                 "y":224
-                }, 
-                {
-                 "class":"area",
                  "height":73,
                  "id":5,
                  "name":"Exit Lobby",
@@ -211,6 +194,28 @@
                  "width":96,
                  "x":1344,
                  "y":728.5
+                }, 
+                {
+                 "class":"area",
+                 "height":609.333333333333,
+                 "id":6,
+                 "name":"MeetingSpace Focus",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingSpace"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":711.666666666667,
+                 "x":603.5,
+                 "y":158.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -267,7 +272,7 @@
          "y":0
         }],
  "nextlayerid":12,
- "nextobjectid":6,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[
         {
