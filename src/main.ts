@@ -20,31 +20,15 @@ WA.onInit().then(() => {
     WA.room.area.onLeave('clock').subscribe(closePopup)
 
 
+
 WA.room.area.onEnter('phrase01').subscribe(() => {
         currentPopup = WA.ui.openPopup("phrase01Popup", "Larger conversations of more than 4 people will happen in "Jitsi Rooms". These are much like Zoom", []);
     })
 
-    WA.room.area.onLeave('phrase01').subscribe(closePopup)
+    WA.room.area.onLeave('phrase01').subscribe(closePopup);
 
 
-    WA.room.area.onEnter('phrase02').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase02Popup", "These are woka - characters in the game as well! Remember to interact with them and you might find something interesting!", []);
-    })
 
-    WA.room.area.onLeave('phrase02').subscribe(closePopup)
-
-
-    WA.room.area.onEnter('phrase03').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase03Popup", "Look out for these green arrows! They are portals into the next rooms. Try to enter", []);
-    })
-
-    WA.room.area.onLeave('phrase03').subscribe(closePopup)
-
-    WA.room.area.onEnter('phrase04').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase04Popup", "What to do when you are lost?", []);
-    })
-
-    WA.room.area.onLeave('phrase04').subscribe(closePopup)
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
