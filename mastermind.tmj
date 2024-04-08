@@ -175,8 +175,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":96,
-                 "x":483,
-                 "y":727
+                 "x":480.333333333333,
+                 "y":745.666666666667
                 }, 
                 {
                  "class":"area",
@@ -191,13 +191,13 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":96,
-                 "x":1344,
-                 "y":728.5
+                 "width":125.333333333333,
+                 "x":1330.66666666667,
+                 "y":757.833333333333
                 }, 
                 {
                  "class":"area",
-                 "height":609.333333333333,
+                 "height":576,
                  "id":6,
                  "name":"MeetingSpace Focus",
                  "properties":[
