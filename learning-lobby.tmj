@@ -152,7 +152,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-LearnLobby"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/main-piazza#from-LearnLobby"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -162,7 +162,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":700,
+                 "height":268,
                  "id":6,
                  "name":"Focus",
                  "properties":[
@@ -173,9 +173,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":1697,
-                 "x":-1870.5,
-                 "y":102
+                 "width":250.333333333333,
+                 "x":-318.5,
+                 "y":355.333333333333
                 }, 
                 {
                  "class":"area",
@@ -220,7 +220,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab1.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab1"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -237,7 +237,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab2.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab2"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -254,7 +254,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab4.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab4"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -271,7 +271,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab6.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab6"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -288,7 +288,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab8.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab8"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -305,7 +305,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab10.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab10"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -349,7 +349,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab3.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab3"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -366,7 +366,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab5.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab5"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -383,7 +383,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab7.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab7"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -400,7 +400,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lab9.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lab9"
                         }],
                  "rotation":0,
                  "visible":true,

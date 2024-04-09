@@ -178,7 +178,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lobby.tmj#from-lab1"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lobby#from-lab1"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -195,7 +195,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lobby.tmj#from-lab1"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lobby#from-lab1"
                         }],
                  "rotation":0,
                  "visible":true,

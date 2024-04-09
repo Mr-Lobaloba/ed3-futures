@@ -170,7 +170,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"masterm-lobby.tmj#from-MM"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/mastermind-lobby#from-MM"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -187,7 +187,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"masterm-lobby.tmj#from-MM"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/mastermind-lobby#from-MM"
                         }],
                  "rotation":0,
                  "visible":true,

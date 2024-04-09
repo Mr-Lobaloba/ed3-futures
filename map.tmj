@@ -505,7 +505,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"masterm-lobby.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/mastermind-lobby"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -627,7 +627,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"edtalk2.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/edtalk2"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -678,7 +678,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"learning-lobby.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/k20-educators\/learning-lobby"
                         }],
                  "rotation":0,
                  "visible":true,
