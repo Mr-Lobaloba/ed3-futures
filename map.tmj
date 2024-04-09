@@ -737,33 +737,6 @@
                 }, 
                 {
                  "class":"area",
-                 "height":104,
-                 "id":38,
-                 "name":"Info",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"Change woka.png"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to get information"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":108,
-                 "x":1995.33333333333,
-                 "y":2092
-                }, 
-                {
-                 "class":"area",
                  "height":227.667,
                  "id":39,
                  "name":"Schedule v2",
@@ -864,6 +837,28 @@
                  "width":224.333,
                  "x":2721.16683333333,
                  "y":660.833166666667
+                }, 
+                {
+                 "class":"",
+                 "height":97.3336,
+                 "id":43,
+                 "name":"phrase02Popup",
+                 "rotation":0,
+                 "visible":true,
+                 "width":386.5,
+                 "x":1875.75,
+                 "y":1892.0015
+                }, 
+                {
+                 "class":"area",
+                 "height":139.167,
+                 "id":44,
+                 "name":"phrase02",
+                 "rotation":0,
+                 "visible":true,
+                 "width":147.833,
+                 "x":1983.17,
+                 "y":2067.8315
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1070,7 +1065,7 @@
          "y":0
         }],
  "nextlayerid":72,
- "nextobjectid":43,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "properties":[
         {
