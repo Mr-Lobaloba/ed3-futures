@@ -343,11 +343,11 @@
         {
          "columns":60,
          "firstgid":2233,
-         "image":"tilesets\/Tree_winter BG.jpg",
+         "image":"tilesets\/talk_space_3.jpg",
          "imageheight":1184,
          "imagewidth":1920,
          "margin":0,
-         "name":"Tree_winter BG",
+         "name":"talk_space_3",
          "spacing":0,
          "tilecount":2220,
          "tileheight":32,
