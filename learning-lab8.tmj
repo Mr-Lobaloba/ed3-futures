@@ -162,6 +162,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"Speaker"
                         }],
                  "rotation":0,
                  "visible":true,
