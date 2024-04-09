@@ -28,7 +28,7 @@ WA.room.area.onEnter('phrase01').subscribe(() => {
     WA.room.area.onLeave('phrase02').subscribe(closePopup);
 
 WA.room.area.onEnter('phrase02').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase02Popup", "Click on Coffe icon at the bottom of your screen to changa Woka", []);
+        currentPopup = WA.ui.openPopup("phrase02Popup", "Click on Coffee icon at the bottom of your screen to change Woka", []);
     })
 
     WA.room.area.onLeave('phrase02').subscribe(closePopup);
