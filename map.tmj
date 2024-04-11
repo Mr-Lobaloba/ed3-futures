@@ -439,7 +439,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"Speaker"
+                         "value":"speaker"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -726,8 +726,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":386.5,
-                 "x":1779.25,
-                 "y":1667.00015
+                 "x":1768.58333333333,
+                 "y":1672.33348333333
                 }, 
                 {
                  "class":"area",
